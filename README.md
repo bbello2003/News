@@ -10,7 +10,7 @@ This project is still in development, and new features will be added soon!
 ## 🚀 Features (Planned & Implemented)
 ✅ Fetch and display news articles from an API  
 ✅ Modern and responsive UI for a smooth user experience  
-🛠️ Press to read news *(in development)*
+🛠️ Press to read news *(in development)*  
 🛠️ Bookmark feature to save favorite articles *(Coming soon)*  
 🛠️ Dark mode support *(Planned)*  
 🛠️ Search functionality to find specific news *(Planned)*  
